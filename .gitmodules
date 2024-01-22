@@ -1,0 +1,6 @@
+[submodule "dynamixel-workbench"]
+	path = dynamixel-workbench
+	url = https://github.com/Interbotix/dynamixel-workbench.git
+[submodule "interbotix_xs_driver"]
+	path = interbotix_xs_driver
+	url = https://github.com/Interbotix/interbotix_xs_driver.git
